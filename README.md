@@ -46,7 +46,7 @@ Makefile, or modify this variable in Makefile to satisfy your tool-chain.
 How to soft link?
 
 ``` shell
-cd /etc/bin
+cd /usr/bin
 ls arm*
 
 arm2hpdl                     arm-linux-gnueabi-gcc-4.7         arm-linux-gnueabi-ld.gold
